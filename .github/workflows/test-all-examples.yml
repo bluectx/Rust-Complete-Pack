@@ -1,0 +1,43 @@
+name: Test All Examples
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  test:
+    name: Test on ${{ matrix.toolchain }}
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        toolchain: [stable, beta, nightly]
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Install Rust ${{ matrix.toolchain }}
+      uses: dtolnay/rust-toolchain@master
+      with:
+        toolchain: ${{ matrix.toolchain }}
+    
+    - name: Cache Cargo
+      uses: actions/cache@v3
+      with:
+        path: |
+          ~/.cargo/bin/
+          ~/.cargo/registry/index/
+          ~/.cargo/registry/cache/
+          ~/.cargo/git/db/
+          target/
+        key: ${{ runner.os }}-cargo-${{ matrix.toolchain }}-${{ hashFiles('**/Cargo.lock') }}
+    
+    - name: Build all projects
+      run: cargo build --workspace --release
+    
+    - name: Run all tests
+      run: cargo test --workspace --release
+      continue-on-error: ${{ matrix.toolchain == 'nightly' }}
+

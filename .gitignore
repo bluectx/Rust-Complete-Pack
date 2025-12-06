@@ -1,0 +1,84 @@
+# Rust
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# ide
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+.cursorrules
+
+# os
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# documentation (duplicated)
+book/book/
+
+# tests
+*.orig
+
+# sensitive files
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+secrets/
+*.secret
+
+# temporary files
+*.log
+*.tmp
+*.temp
+*.cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# build files
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# system files
+*.bak
+*.backup
+*~
+.#*
+
+# editor
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+
+# coverage
+coverage/
+*.gcov
+*.gcda
+*.gcno
+
+# profiling
+*.prof
+perf.data*
+flamegraph.svg

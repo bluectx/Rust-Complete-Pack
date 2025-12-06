@@ -1,0 +1,6 @@
+// TODO: Compléter cet exercice
+// Chapitre 22, Exercice 5
+
+fn main() {
+    // Votre code ici
+}
