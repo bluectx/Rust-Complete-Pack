@@ -1,9 +1,8 @@
 # 🦀 Le Guide Complet  pour Apprendre Rust depuis Zéro
 
-**Version :** 1.0.0  
-**Langue :** Français  
-**Dernière mise à jour :** Décembre 2025  
-**Public :** Débutants → Experts
+**Version :** 1.0.1  
+**Dernière maj :** Décembre 2025  
+**Public :** Novice -> Experts
 
 ---
 
