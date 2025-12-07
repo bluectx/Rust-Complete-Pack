@@ -1,0 +1,4 @@
+[package]
+name = "ex0180-propager-les-erreurs-avec"
+version = "0.1.0"
+edition = "2021"

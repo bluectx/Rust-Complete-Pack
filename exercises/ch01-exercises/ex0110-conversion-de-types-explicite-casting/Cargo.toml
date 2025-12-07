@@ -1,0 +1,4 @@
+[package]
+name = "ex0110-conversion-de-types-explicite-casting"
+version = "0.1.0"
+edition = "2021"

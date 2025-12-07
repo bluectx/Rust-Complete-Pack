@@ -1,0 +1,4 @@
+[package]
+name = "ex0212-op-rations-sur-flottants"
+version = "0.1.0"
+edition = "2021"

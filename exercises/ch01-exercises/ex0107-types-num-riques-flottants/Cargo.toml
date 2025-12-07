@@ -1,0 +1,4 @@
+[package]
+name = "ex0107-types-num-riques-flottants"
+version = "0.1.0"
+edition = "2021"

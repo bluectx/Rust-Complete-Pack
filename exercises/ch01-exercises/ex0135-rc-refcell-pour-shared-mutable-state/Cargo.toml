@@ -1,0 +1,4 @@
+[package]
+name = "ex0135-rc-refcell-pour-shared-mutable-state"
+version = "0.1.0"
+edition = "2021"

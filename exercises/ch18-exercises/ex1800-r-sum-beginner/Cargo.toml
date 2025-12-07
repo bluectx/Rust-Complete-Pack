@@ -1,0 +1,4 @@
+[package]
+name = "ex1800-r-sum-beginner"
+version = "0.1.0"
+edition = "2021"

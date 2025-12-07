@@ -1,0 +1,4 @@
+[package]
+name = "ex0122-loop-comme-expression"
+version = "0.1.0"
+edition = "2021"

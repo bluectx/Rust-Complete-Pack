@@ -1,0 +1,4 @@
+[package]
+name = "ex0424-boucle-for-avec-range"
+version = "0.1.0"
+edition = "2021"

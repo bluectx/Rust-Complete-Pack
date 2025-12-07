@@ -1,0 +1,4 @@
+[package]
+name = "ex1899-organisation-des-tests"
+version = "0.1.0"
+edition = "2021"

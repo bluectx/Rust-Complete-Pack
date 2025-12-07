@@ -1,0 +1,4 @@
+[package]
+name = "ex0164-closure-avec-param-tres-typ-s"
+version = "0.1.0"
+edition = "2021"

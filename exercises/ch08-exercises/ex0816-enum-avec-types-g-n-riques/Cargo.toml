@@ -1,0 +1,4 @@
+[package]
+name = "ex0816-enum-avec-types-g-n-riques"
+version = "0.1.0"
+edition = "2021"

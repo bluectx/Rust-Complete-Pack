@@ -1,0 +1,4 @@
+[package]
+name = "ex2486-memory-ordering-acquire-release"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+[package]
+name = "ex0140-channel-pour-inter-thread-communication"
+version = "0.1.0"
+edition = "2021"

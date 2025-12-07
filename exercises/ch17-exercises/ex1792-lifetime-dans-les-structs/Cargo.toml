@@ -1,0 +1,4 @@
+[package]
+name = "ex1792-lifetime-dans-les-structs"
+version = "0.1.0"
+edition = "2021"

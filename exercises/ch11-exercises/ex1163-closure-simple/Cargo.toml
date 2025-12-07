@@ -1,0 +1,4 @@
+[package]
+name = "ex1163-closure-simple"
+version = "0.1.0"
+edition = "2021"

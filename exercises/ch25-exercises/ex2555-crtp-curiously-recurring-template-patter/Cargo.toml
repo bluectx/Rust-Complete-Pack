@@ -1,0 +1,4 @@
+[package]
+name = "ex2555-crtp-curiously-recurring-template-patter"
+version = "0.1.0"
+edition = "2021"

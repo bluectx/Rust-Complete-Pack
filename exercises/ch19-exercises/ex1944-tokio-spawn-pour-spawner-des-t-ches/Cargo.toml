@@ -1,0 +1,4 @@
+[package]
+name = "ex1944-tokio-spawn-pour-spawner-des-t-ches"
+version = "0.1.0"
+edition = "2021"

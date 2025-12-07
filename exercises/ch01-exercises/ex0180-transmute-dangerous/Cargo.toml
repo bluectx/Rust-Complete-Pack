@@ -1,0 +1,4 @@
+[package]
+name = "ex0180-transmute-dangerous"
+version = "0.1.0"
+edition = "2021"

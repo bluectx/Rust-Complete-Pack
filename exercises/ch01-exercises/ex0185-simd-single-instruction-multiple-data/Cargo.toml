@@ -1,0 +1,4 @@
+[package]
+name = "ex0185-simd-single-instruction-multiple-data"
+version = "0.1.0"
+edition = "2021"

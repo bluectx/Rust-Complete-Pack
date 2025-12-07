@@ -1,0 +1,4 @@
+[package]
+name = "ex0101-concurrency-avanc-e-channels-et-patterns"
+version = "0.1.0"
+edition = "2021"

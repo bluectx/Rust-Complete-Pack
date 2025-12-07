@@ -1,0 +1,4 @@
+[package]
+name = "ex2176-raw-pointers-const-et-mut"
+version = "0.1.0"
+edition = "2021"

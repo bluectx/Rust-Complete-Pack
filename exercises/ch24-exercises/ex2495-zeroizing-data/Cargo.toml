@@ -1,0 +1,4 @@
+[package]
+name = "ex2495-zeroizing-data"
+version = "0.1.0"
+edition = "2021"

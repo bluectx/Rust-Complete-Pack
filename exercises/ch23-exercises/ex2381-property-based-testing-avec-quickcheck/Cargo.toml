@@ -1,0 +1,4 @@
+[package]
+name = "ex2381-property-based-testing-avec-quickcheck"
+version = "0.1.0"
+edition = "2021"

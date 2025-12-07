@@ -1,0 +1,4 @@
+[package]
+name = "ex1896-fonction-de-test-basique"
+version = "0.1.0"
+edition = "2021"

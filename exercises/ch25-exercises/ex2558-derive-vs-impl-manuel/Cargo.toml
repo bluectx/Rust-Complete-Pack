@@ -1,0 +1,4 @@
+[package]
+name = "ex2558-derive-vs-impl-manuel"
+version = "0.1.0"
+edition = "2021"

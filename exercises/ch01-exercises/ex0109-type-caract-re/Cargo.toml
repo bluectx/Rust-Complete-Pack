@@ -1,0 +1,4 @@
+[package]
+name = "ex0109-type-caract-re"
+version = "0.1.0"
+edition = "2021"

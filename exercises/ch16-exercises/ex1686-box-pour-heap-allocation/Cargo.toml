@@ -1,0 +1,4 @@
+[package]
+name = "ex1686-box-pour-heap-allocation"
+version = "0.1.0"
+edition = "2021"

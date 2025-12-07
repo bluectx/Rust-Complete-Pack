@@ -1,0 +1,4 @@
+[package]
+name = "ex2562-clippy-et-lints"
+version = "0.1.0"
+edition = "2021"

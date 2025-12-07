@@ -1,0 +1,4 @@
+[package]
+name = "ex0711-self-lifetime-dans-les-traits"
+version = "0.1.0"
+edition = "2021"

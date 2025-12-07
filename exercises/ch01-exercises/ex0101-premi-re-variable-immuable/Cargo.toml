@@ -1,0 +1,4 @@
+[package]
+name = "ex0101-premi-re-variable-immuable"
+version = "0.1.0"
+edition = "2021"

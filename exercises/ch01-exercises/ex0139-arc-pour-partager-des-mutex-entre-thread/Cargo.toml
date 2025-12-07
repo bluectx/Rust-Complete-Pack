@@ -1,0 +1,4 @@
+[package]
+name = "ex0139-arc-pour-partager-des-mutex-entre-thread"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+[package]
+name = "ex2050-debug-et-inspect-macros-avec-cargo-expan"
+version = "0.1.0"
+edition = "2021"

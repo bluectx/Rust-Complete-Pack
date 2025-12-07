@@ -1,0 +1,4 @@
+[package]
+name = "ex1583-chemin-absolu-et-relatif"
+version = "0.1.0"
+edition = "2021"

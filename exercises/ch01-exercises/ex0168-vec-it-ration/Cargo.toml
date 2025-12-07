@@ -1,0 +1,4 @@
+[package]
+name = "ex0168-vec-it-ration"
+version = "0.1.0"
+edition = "2021"

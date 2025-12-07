@@ -1,0 +1,4 @@
+[package]
+name = "ex1229-result-and-then-et-result-or-else"
+version = "0.1.0"
+edition = "2021"

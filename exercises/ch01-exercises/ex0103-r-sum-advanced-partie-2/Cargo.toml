@@ -1,0 +1,4 @@
+[package]
+name = "ex0103-r-sum-advanced-partie-2"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+[package]
+name = "ex0104-std-mem-drop-explicite"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+[package]
+name = "ex0168-select-pour-l-une-des-premi-res"
+version = "0.1.0"
+edition = "2021"

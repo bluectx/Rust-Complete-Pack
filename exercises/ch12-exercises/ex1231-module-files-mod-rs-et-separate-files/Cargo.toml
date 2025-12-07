@@ -1,0 +1,4 @@
+[package]
+name = "ex1231-module-files-mod-rs-et-separate-files"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+[package]
+name = "ex1060-trait-avec-plusieurs-m-thodes"
+version = "0.1.0"
+edition = "2021"

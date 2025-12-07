@@ -1,0 +1,4 @@
+[package]
+name = "ex0602-emprunt-mutable-et-immuable-regles-avanc"
+version = "0.1.0"
+edition = "2021"

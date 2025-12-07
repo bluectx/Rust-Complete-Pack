@@ -1,0 +1,4 @@
+[package]
+name = "ex2504-expert-rust-synth-se-finale"
+version = "0.1.0"
+edition = "2021"

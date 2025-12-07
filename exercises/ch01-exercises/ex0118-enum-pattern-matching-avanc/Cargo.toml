@@ -1,0 +1,4 @@
+[package]
+name = "ex0118-enum-pattern-matching-avanc"
+version = "0.1.0"
+edition = "2021"

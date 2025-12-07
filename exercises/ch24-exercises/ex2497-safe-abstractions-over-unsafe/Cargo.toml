@@ -1,0 +1,4 @@
+[package]
+name = "ex2497-safe-abstractions-over-unsafe"
+version = "0.1.0"
+edition = "2021"

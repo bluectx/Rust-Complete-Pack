@@ -1,0 +1,4 @@
+[package]
+name = "ex0143-r-gles-de-borrowing"
+version = "0.1.0"
+edition = "2021"

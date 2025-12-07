@@ -1,0 +1,4 @@
+[package]
+name = "ex0113-associated-types"
+version = "0.1.0"
+edition = "2021"

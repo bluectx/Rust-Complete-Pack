@@ -1,0 +1,4 @@
+[package]
+name = "ex0150-impl-basique-m-thodes"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+[package]
+name = "ex0709-higher-ranked-trait-bounds-hrtb"
+version = "0.1.0"
+edition = "2021"

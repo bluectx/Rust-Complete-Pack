@@ -1,0 +1,4 @@
+[package]
+name = "ex0105-annotation-de-type-explicite"
+version = "0.1.0"
+edition = "2021"

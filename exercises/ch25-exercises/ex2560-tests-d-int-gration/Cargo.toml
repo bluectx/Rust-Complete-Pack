@@ -1,0 +1,4 @@
+[package]
+name = "ex2560-tests-d-int-gration"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+[package]
+name = "ex0159-trait-avec-m-thode-par-d-faut"
+version = "0.1.0"
+edition = "2021"

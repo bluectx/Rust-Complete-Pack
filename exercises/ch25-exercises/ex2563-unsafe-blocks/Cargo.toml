@@ -1,0 +1,4 @@
+[package]
+name = "ex2563-unsafe-blocks"
+version = "0.1.0"
+edition = "2021"

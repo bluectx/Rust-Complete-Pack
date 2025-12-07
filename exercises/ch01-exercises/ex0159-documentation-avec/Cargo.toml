@@ -1,0 +1,4 @@
+[package]
+name = "ex0159-documentation-avec"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+[package]
+name = "ex0708-lifetime-bounds-sur-les-types-g-n-riques"
+version = "0.1.0"
+edition = "2021"

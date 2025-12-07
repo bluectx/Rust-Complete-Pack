@@ -1,0 +1,4 @@
+[package]
+name = "ex0147-struct-avec-types-primitifs-et-complexes"
+version = "0.1.0"
+edition = "2021"

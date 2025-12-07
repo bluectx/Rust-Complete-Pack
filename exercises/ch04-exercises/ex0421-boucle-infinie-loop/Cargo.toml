@@ -1,0 +1,4 @@
+[package]
+name = "ex0421-boucle-infinie-loop"
+version = "0.1.0"
+edition = "2021"

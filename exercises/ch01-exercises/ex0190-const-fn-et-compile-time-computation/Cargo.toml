@@ -1,0 +1,4 @@
+[package]
+name = "ex0190-const-fn-et-compile-time-computation"
+version = "0.1.0"
+edition = "2021"

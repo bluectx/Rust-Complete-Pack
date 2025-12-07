@@ -1,0 +1,4 @@
+[package]
+name = "ex0158-trait-bound-en-param-tre"
+version = "0.1.0"
+edition = "2021"

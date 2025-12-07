@@ -1,0 +1,4 @@
+[package]
+name = "ex2382-mocking-et-testing-avec-dyn-traits"
+version = "0.1.0"
+edition = "2021"

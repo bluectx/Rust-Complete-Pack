@@ -1,0 +1,4 @@
+[package]
+name = "ex0198-should-panic-pour-tester-les-paniques"
+version = "0.1.0"
+edition = "2021"

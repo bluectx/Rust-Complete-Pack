@@ -1,0 +1,4 @@
+[package]
+name = "ex0114-supertrait-trait-inheritance"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+[package]
+name = "ex1945-join-pour-attendre-plusieurs-futures"
+version = "0.1.0"
+edition = "2021"

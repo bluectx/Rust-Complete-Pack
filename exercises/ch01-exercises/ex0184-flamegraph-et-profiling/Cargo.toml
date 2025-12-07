@@ -1,0 +1,4 @@
+[package]
+name = "ex0184-flamegraph-et-profiling"
+version = "0.1.0"
+edition = "2021"

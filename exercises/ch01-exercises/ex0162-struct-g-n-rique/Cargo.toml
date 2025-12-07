@@ -1,0 +1,4 @@
+[package]
+name = "ex0162-struct-g-n-rique"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+[package]
+name = "ex0954-match-avec-variantes-de-donn-es"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+[package]
+name = "ex2488-web-assembly-wasm-basic"
+version = "0.1.0"
+edition = "2021"

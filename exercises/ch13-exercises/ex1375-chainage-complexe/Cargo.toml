@@ -1,0 +1,4 @@
+[package]
+name = "ex1375-chainage-complexe"
+version = "0.1.0"
+edition = "2021"
