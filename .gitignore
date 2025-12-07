@@ -81,4 +81,5 @@ coverage/
 # profiling
 *.prof
 perf.data*
-flamegraph.svg
+flamegraph.svgidée.md
+idée.md
